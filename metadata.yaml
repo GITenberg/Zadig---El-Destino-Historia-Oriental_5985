@@ -1,0 +1,32 @@
+_repo: Zadig---El-Destino-Historia-Oriental_5985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5985'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 18th century'
+- !lcsh 'Political fiction, French'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Zadig, ó El Destino, Historia Oriental
+url: http://www.gutenberg.org/ebooks/5985
